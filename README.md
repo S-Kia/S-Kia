@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Combining my expertise in health science and technology with my experience in effective and efficient operations, I display a range of multiskilled abilities to provide exceptional all-round healthtech services.
+
 <h3>Coding</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
@@ -14,6 +16,7 @@
   <br>
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Hyperledger Besu" src="https://img.shields.io/badge/Hyperledger%20Besu-%230079b5.svg?style=flat-square&logo=hyperledger&logoColor=white" />
+  <img alt="CCXT" src="https://img.shields.io/badge/CCXT-008080.svg?style=flat-square&logo=ccxt&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux- FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
   <img alt="SSH" src="https://img.shields.io/badge/SSH-008080.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" />
@@ -31,7 +34,12 @@
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
- 
+<h3>My current projects</h3>
+<ul>
+  <li> API trading between tradingview and exchange. </li>
+</ul>
+
+
 <h3>Connect with me</h3>
 <p><a href="https://www.linkedin.com/in/suphakris-tanmuk-6ba56125b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
